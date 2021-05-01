@@ -1,0 +1,12 @@
+void main() {
+     trisb = 0b00000001;
+     portb = 0x00;
+     while(1){
+         if(RB0_bit==1){
+            while(RB0_bit==1);
+            RB1_bit=~ RB1_bit;
+            delay_ms(100);
+         }
+     }
+
+}

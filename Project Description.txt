@@ -1,0 +1,10 @@
+/////////  Taper to Travail /////////
+	Project Description 
+***This a simulation based project havn't made it on real by me***
+This project works on a clap based signal to turn on any device you might to connected to the relay 
+It is powered by a PIC Microcontroller(PIC16F84A) and i have used a buzzer on the simulation 
+but if you are making in real sceniro then use a mic and i havn't connnected any device to the relay in the simulation too
+since i Can't recieve a signal through a buzzer so actually the simulation is given to you so that you can get a brief idea 
+how the circuit actually works.
+****************  Hope you enjoyed your time *********************
+****************  Thank You **************************************

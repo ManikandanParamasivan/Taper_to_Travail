@@ -1,0 +1,20 @@
+// Hardware component needed //
+
+1.PIC16F84A (Microcontroller)
+2.Crystal
+3.Relay
+4.IN4007 diode  // I have a genric diode in the simulation
+5. 100nf capacitor
+6. 22pf Capacitor
+7. Mic // I have taken Buzzer in the simulation bcoz we i dont know how to give audio signal to mic in simulation
+8. 2N3904 Transisitor
+9. BC337 Transistor
+10. Resistor (10k,1M,1k)
+11. Jumper wires
+12. breadboard 
+13. USB Programmer
+
+// Software needed //
+
+1. MikroC / MPLab
+2. Proteus or any SImulation tool (incase u wanna simulate)
